@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom utility overrides */
+.ml-2 {
+  margin-left: 3rem !important;
+}
